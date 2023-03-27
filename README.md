@@ -1,6 +1,10 @@
-# Expo Router Example
+# This is an practice aplication developed using react native and expo
+
+### It uses expo router for navigation 
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+
+## Application uses rapid api to fetch jobs API and display it
 
 ## 🚀 How to use
 
